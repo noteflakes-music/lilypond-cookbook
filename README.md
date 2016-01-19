@@ -1,2 +1,1 @@
-# lilypond-cookbook
-The lilypond cookbook: a wiki for lilypond users
+# [The Lilypond Cookbook](https://github.com/noteflakes/lilypond-cookbook/wiki)
